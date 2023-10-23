@@ -1,4 +1,4 @@
-# Company-Financial-Analysis
+# ANALYZING COMPANY FINANCIAL DATASET
 
 ## INTRODUCTION
 This analysis was carried out using excel on a company’s financial dataset. The analysis was done to analyze few aspects of the company’s finances and to answer some questions that might affect the decision making in the company.
