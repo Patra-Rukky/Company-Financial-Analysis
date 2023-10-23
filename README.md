@@ -14,6 +14,7 @@ This analysis was carried out using excel on a company’s financial dataset. Th
 The data was already cleaned and arranged properly for analysis. It contained 700 rows of data and 16 columns.
 
 ![](Financials0.1.png)
+---
 
 ## ANALYSIS
 
@@ -24,6 +25,7 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ![](AR4P.png)
 
 - It was deduced that the _AVERAGE REVENUE_ the company made from sales of _PASEO_ is **$163,421.50.**
+---
 
 ### THE NUMBER OF SALES MADE IN THE GOVERNMENT AND MIDMARKET SEGMENT
 
@@ -32,6 +34,7 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ![](NoSMS.png)
 
 - It was deduced that _GOVERNMENT_ segment made **300** sales and _MIDMARKET_ segment made **100** sales bringing it to a total of **400** sales for both segments.
+---
 
 ### THE TOTAL REVENUE GENERATED FROM THE SALES OF MONTANA IN CANADA
 
@@ -40,6 +43,7 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ![](TSMC.png)
 
 - It was deduced that the _TOTAL REVENUE_ generated from the sales of _MONTANA_ in _CANADA_ is **$2,711,919.03.**
+---
 
 ### IN WHICH COUNTRY, SEGMENT AND MONTH WAS THE HIGHEST UNIT OF GOODS SOLD?
 
@@ -49,6 +53,7 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ![](MHUS.png)
 
 - From this I found out that the _HIGHEST UNIT SOLD_ is **4493** and the _COUNTRY_, _SEGMENT_ and _MONTH_ with highest units sold are **UNITED STATES OF AMERICA, GOVERNMENT, and APRIL** respectively.
+---
 
 ### TOTAL PROFIT MADE IN DECEMBER
 - Here, I used the **SUMIF** function on the _PROFIT_ column and the _MONTH NAME_ column with criteria as _DECEMBER_
@@ -56,7 +61,10 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ![](TPD.png)
 
 - The total profit made in _DECEMBER_ is **$2,717,329.98.**
+---
 
+### CONCLUSION
+The answers to these questons has given some insight to how the company performed in different situations.
 
 
 
