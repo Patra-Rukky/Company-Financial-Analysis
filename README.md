@@ -64,7 +64,7 @@ The data was already cleaned and arranged properly for analysis. It contained 70
 ---
 
 ### CONCLUSION
-The answers to these questons has given some insight to how the company performed in different situations.
+The answers to these questons has given some insight to how the company performed in different situations. Further analysis can also be carried out to gain more insight on how to improve sales performance.
 
 
 
